@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Kamila Lehmann
 
-<!--
-**KamilaLehmann/KamilaLehmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – 4º semestre  
+💻 Buscando estágio na área de Tecnologia da Informação  
+📍 Itapevi - SP  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou estudante de tecnologia apaixonada por aprender e desenvolver soluções.  
+Atualmente estou estudando desenvolvimento e buscando minha primeira oportunidade de estágio na área de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estou aprendendo
+- HTML
+- CSS
+- Python
+- Java
+  
+
+## 📫 Contato
+Email: kamilamoraeslehmann@gmail.com  
+LinkedIn: https://www.linkedin.com/in/kamila-lehmann-412833271
