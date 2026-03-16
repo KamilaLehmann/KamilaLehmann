@@ -19,6 +19,10 @@ Atualmente estou estudando desenvolvimento e buscando minha primeira oportunidad
 Email: kamilamoraeslehmann@gmail.com  
 LinkedIn: https://www.linkedin.com/in/kamila-lehmann-412833271
 
+## 📄 Currículo
+
+[📥 Baixar meu currículo](COLE_AQUI_O_LINK_DO_PDF)
+
 ## 📊 Estatísticas do GitHub
 
 ![Kamila GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilaLehmann&show_icons=true&theme=tokyonight)
