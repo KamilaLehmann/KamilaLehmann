@@ -21,7 +21,7 @@ LinkedIn: https://www.linkedin.com/in/kamila-lehmann-412833271
 
 ## 📄 Currículo
 
-[📥 Baixar meu currículo](COLE_AQUI_O_LINK_DO_PDF)
+[📥 Baixar meu currículo](https://github.com/KamilaLehmann/KamilaLehmann/blob/483b3a45cb4dcd96ece6c962ca2449fde25e5f04/Curriculo%20Kamila%20moraes%20lehmann.pdf)
 
 ## 📊 Estatísticas do GitHub
 
